@@ -1,6 +1,6 @@
 # Trabajo Práctico I - Programación II
 
-#Manuel
+#Comentario de Manuel
 import os
 
 print("Bienvenido!")
